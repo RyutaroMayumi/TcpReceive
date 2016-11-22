@@ -1,0 +1,14 @@
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\bin\Debug\TcpReceive.exe.config
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\bin\Debug\TcpReceive.exe
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\bin\Debug\TcpReceive.pdb
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\MainWindow.g.cs
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\App.g.cs
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive_MarkupCompile.cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive_MarkupCompile.lref
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\MainWindow.baml
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive.g.resources
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive.Properties.Resources.resources
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive.csproj.GenerateResource.Cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive.exe
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive.pdb
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpReceive\TcpReceive\obj\Debug\TcpReceive.csprojResolveAssemblyReference.cache
